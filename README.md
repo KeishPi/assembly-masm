@@ -1,4 +1,8 @@
 # assembly-masm
+All programs were run in Windows (Intel IA-32 architecture), VIsual Studio 2015 using Kip Irvine's libraries.
+See the following link for setup and install information:
+http://www.kipirvine.com/asm/gettingStartedVS2015/index.htm
+
 Programs from computer architecture and assembly language class covering the following topics:
 - constants, variables
 - addressing modes
@@ -16,6 +20,5 @@ Programs from computer architecture and assembly language class covering the fol
 - arrays, array parameters
 - low-level I/O
 
-All programs were run in Windows (Intel IA-32 architecture), VIsual Studio 2015 using Kip Irvine's libraries.  See the following link for setup and install information:
-http://www.kipirvine.com/asm/gettingStartedVS2015/index.htm
+
 
